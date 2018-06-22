@@ -1,0 +1,71 @@
+<div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-preview">
+            <a href="post.html">
+              <h2 class="post-title">
+                Kampa Hoş Geldim
+              </h2>
+              <h3 class="post-subtitle">
+                İlk gün biraz zor gelmişti açıkçsı kodlama hakkında pek çok şey öğrendim. Akvaryumdan okyanusa atlmış bir balık gibi hissettim keşfedilecek çok şey vardı...
+              </h3>
+            </a>
+            <p class="post-meta">Posted by
+              <a href="#"> Ata Beken </a>
+              on September 24, 2018</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+            <a href="post.html">
+              <h2 class="post-title">
+                2.Gün
+              </h2>
+              <h3 class="post-subtitle">
+                Bugün 3 boyulu tasarım yapmayı öğrendik. Temel toolları kullanmayı yeni klavye komutlarını öğrendik.
+              </h3>
+            </a>
+            <p class="post-meta">Posted by
+              <a href="#"> Ata Beken </a>
+              on September 24, 2018</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+            <a href="post.html">
+              <h2 class="post-title">
+                3.Gün
+              </h2>
+              <h3 class="post-subtitle">
+                Empati odakı düşünerek tasarı oluşturmayı öğrendik. Bek çok ürüne ve olaylara farklı açıdan bakmayı kavradık.
+              </h3>
+            </a>
+            <p class="post-meta">Posted by
+              <a href="#"> Ata Beken </a>
+              on August 24, 2018</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+            <a href="post.html">
+              <h2 class="post-title">
+               4.Gün
+              </h2>
+              <h3 class="post-subtitle">
+                Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+              </h3>
+            </a>
+            <p class="post-meta">Posted by
+              <a href="#">Ata Beken</a>
+              on July 8, 2018</p>
+          </div>
+             <div class="post-preview">
+            <a href="post.html">
+              <h2 class="post-title">
+               Dönüş Vakti
+              </h2>
+              <h3 class="post-subtitle">
+                Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+              </h3>
+            </a>
+            <p class="post-meta">Posted by
+              <a href="#">Ata Beken</a>
+              on July 8, 2018</p>
+          </div>
